@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/hei"
+    android:orientation="vertical"
+    android:padding="40dp"
+    tools:context="com.nandohusni.testtrackingworkshop.LoginActivity">
+
+
+    <EditText
+        android:id="@+id/userEmail"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginTop="80dp"
+        android:background="@drawable/background"
+        android:fontFamily="sans-serif"
+        android:gravity="center"
+        android:hint="Email"
+        android:textColorHint="#cccbcb" />
+
+    <EditText
+        android:id="@+id/userPassword"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/background"
+        android:fontFamily="sans-serif"
+        android:gravity="center"
+        android:hint="Password"
+        android:textColorHint="#cccbcb" />
+
+    <Button
+        android:id="@+id/userSignUp"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/background2"
+        android:text="Sign In"
+        android:textColor="@android:color/white" />
+
+    <TextView
+        android:id="@+id/linkSignup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:gravity="right"
+        android:text="Have Account ? Sign up "
+        android:textColor="@android:color/white"
+        android:textSize="15sp" />
+</LinearLayout>

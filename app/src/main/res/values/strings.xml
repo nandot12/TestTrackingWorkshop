@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Test Tracking Workshop</string>
+    <string name="title_activity_utama">UtamaActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Profil</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

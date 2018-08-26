@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "247075593227",
+    "firebase_url": "https://it-visit.firebaseio.com",
+    "project_id": "it-visit",
+    "storage_bucket": "it-visit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247075593227:android:70a652beed7c5a51",
+        "android_client_info": {
+          "package_name": "com.nandohusni.testtrackingworkshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247075593227-dtd3g9fcfu70tvs4o9qod5a9adddl4e3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcYpjlP7dYW68gxpUJdqotVR3A_ft5zIQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247075593227:android:f6a50c519986ca69",
+        "android_client_info": {
+          "package_name": "us.playstory.specialone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247075593227-2le53qjdn7eli86oh610pg8etqp7r5b0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "us.playstory.specialone",
+            "certificate_hash": "ff18bb866647836ee0d53358117231321bd212b3"
+          }
+        },
+        {
+          "client_id": "247075593227-dtd3g9fcfu70tvs4o9qod5a9adddl4e3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcYpjlP7dYW68gxpUJdqotVR3A_ft5zIQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247075593227-dtd3g9fcfu70tvs4o9qod5a9adddl4e3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "247075593227-eg33i084rdu4584ahvhhnltnfuqp4mm0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "imastudio.co.id.Firebase-swift-4"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
